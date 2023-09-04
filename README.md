@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/detailed-gamer-room-illustration_23-2148923561.jpg?w=1380&t=st=1693817135~exp=1693817735~hmac=7eb060626be12a49904307adff25de4eee8818cb7f2407845f1560a39b51f4a4)]
+![MasterHead](https://img.freepik.com/free-vector/detailed-gamer-room-illustration_23-2148923561.jpg?w=1380&t=st=1693817135~exp=1693817735~hmac=7eb060626be12a49904307adff25de4eee8818cb7f2407845f1560a39b51f4a4)
 <h1 align="center">Hi 👋, I'm Mohit Aggarwal</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <h3 align="center">Passionate Game Developer</h3>
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Gaming, and logics in the game works**
 
-- 📫 How to reach me **mohitaggar2008@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/mohitaggarwal1/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hwdh6ChUL7M6UQ1HvjLP7afcr3Av5U1d/view?usp=sharing](https://drive.google.com/file/d/1hwdh6ChUL7M6UQ1HvjLP7afcr3Av5U1d/view?usp=sharing)
 
