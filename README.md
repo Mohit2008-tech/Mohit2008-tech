@@ -8,10 +8,6 @@
 
 - 💬 Ask me about **Gaming, and logics in the game works**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohitaggarwal1/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hwdh6ChUL7M6UQ1HvjLP7afcr3Av5U1d/view?usp=sharing](https://drive.google.com/file/d/1hwdh6ChUL7M6UQ1HvjLP7afcr3Av5U1d/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohitaggarwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitaggarwal1" height="30" width="40" /></a>
